@@ -1,4 +1,4 @@
-💫 **About Me**: 
+💫 **About Me**:  
 
 Hello all! My name is Tyler, and I am a student! I'm interested in using Python as an automation tool. I'm also interested in web development, AI, and cybersecurity. I have past research experience using Rstudio. 
 
