@@ -1,6 +1,6 @@
 💫 **About Me**:  
 
-Hello all! My name is Tyler, and I am a student! I'm interested in using Python as an automation tool. I'm also interested in web development, AI/machine learning, and cybersecurity. I have
+Hello all! My name is Tyler, and I am a student! I'm interested in using Python as an automation tool. I'm also interested in web development, AI/machine learning, and cybersecurity.
 
 I'm an avid video game enthusiast and want to learn game development with Pygame.
 
